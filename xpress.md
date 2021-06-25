@@ -607,4 +607,3 @@ Plank
 Glute bridge 
 
 -----
-1
